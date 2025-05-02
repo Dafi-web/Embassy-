@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Embassy-/static/css/main.ef775756.css",
+    "main.js": "/Embassy-/static/js/main.70809427.js",
+    "index.html": "/Embassy-/index.html",
+    "main.ef775756.css.map": "/Embassy-/static/css/main.ef775756.css.map",
+    "main.70809427.js.map": "/Embassy-/static/js/main.70809427.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef775756.css",
+    "static/js/main.70809427.js"
+  ]
+}
