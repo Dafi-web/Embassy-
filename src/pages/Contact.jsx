@@ -1,0 +1,19 @@
+import React from "react";
+
+
+function Contact() {
+  return (
+    <div className="contact-container">
+      <h2>Contact Us</h2>
+      <p>If you'd like to reach out, please use the form below.</p>
+      <form className="contact-form">
+        <input type="text" placeholder="Your Name" required />
+        <input type="email" placeholder="Your Email" required />
+        <textarea placeholder="Your Message" rows="5" required></textarea>
+        <button type="submit">Send</button>
+      </form>
+    </div>
+  );
+}
+
+export default Contact;
