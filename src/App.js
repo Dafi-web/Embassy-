@@ -12,13 +12,11 @@ function App() {
   return (
     <Router>
       <Nav />
-      <main style={{ padding: "2rem", minHeight: "80vh" }}>
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/about" element={<About />} />
           <Route path="/contact" element={<Contact />} />
         </Routes>
-      </main>
       <Footer />
     </Router>
   );
