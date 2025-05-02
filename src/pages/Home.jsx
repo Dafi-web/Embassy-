@@ -9,7 +9,7 @@ function Home() {
         src="https://github.com/Dafi-web/cssas1/blob/main/WhatsApp%20Image%202025-04-30%20at%2011.44.47.jpeg?raw=true"
         alt="SKV Embassy"
       />
-      <h1>SKV-Embassy (MDT)</h1>
+      <h1>ASKV-Embassy (MDT)</h1>
       <p>
         An Embassy for undocumented migrants and refugees:
         <br />
